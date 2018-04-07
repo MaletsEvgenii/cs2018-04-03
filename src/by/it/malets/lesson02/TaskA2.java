@@ -9,7 +9,9 @@ import java.io.IOException;
 Для ручной проверки запустите программу Ctrl+Shift+F10
 Для автоматической проверки откройте и запустите класс Testing
 */
-class TaskA2 {
+class TaskA2
+{public class TaskA2
+    
     {
     }
 

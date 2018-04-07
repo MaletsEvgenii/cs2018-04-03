@@ -12,6 +12,7 @@ import java.io.IOException;
 class TaskA2 {
     public static void main(String[] args) throws IOException
             String s=" System.out.println(Я начинаю изучать Java;
+
                     
 
 

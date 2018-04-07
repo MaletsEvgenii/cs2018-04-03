@@ -10,10 +10,19 @@ import java.io.IOException;
 Для автоматической проверки откройте и запустите класс Testing
 */
 class TaskA2 {
+    {
+    }
+
+    private static String TEXT = (Я начинаю изучать
+    Java!);
+        System.out.println(
+    Я начинаю
+    изучать Java!);
+
     public static void main(String[] args) throws IOException
-            String s=" System.out.println(Я начинаю изучать Java;
 
-                    
+    String s = "Я начинаю изучать Java";
 
-
+    printTextMoreTimes(s,5)
+}
 }

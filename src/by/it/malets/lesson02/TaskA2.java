@@ -9,22 +9,10 @@ import java.io.IOException;
 Для ручной проверки запустите программу Ctrl+Shift+F10
 Для автоматической проверки откройте и запустите класс Testing
 */
-class TaskA2
-{public class TaskA2
-    
-    {
-    }
-
-    private static String TEXT = (Я начинаю изучать
-    Java!);
-        System.out.println(
-    Я начинаю
-    изучать Java!);
-
+class TaskA2 {
     public static void main(String[] args) throws IOException
+            String s=" System.out.println(Я начинаю изучать Java;
+                    
 
-    String s = "Я начинаю изучать Java";
 
-    printTextMoreTimes(s,5)
-}
 }
